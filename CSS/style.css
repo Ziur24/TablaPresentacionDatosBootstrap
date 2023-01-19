@@ -11,8 +11,6 @@ table .total:before{
     width: 16px; 
     height: 16px; 
     fill: currentColor;
-    
-    /*viewBox: 0px 0px 16px 16px;*/
 }
 .cabeceraTabla{
     margin-left: 0.5rem;
